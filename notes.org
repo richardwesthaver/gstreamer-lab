@@ -1,0 +1,6 @@
+#+TITLE: GST testing
+
+[[https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/tree/master/][GST Rust Plugins]]
+[[https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/tree/master/tutorial][GST Rust Plugins Tutorials]]
+
+--> check out csound, it's basically exactly what we're trying to do
